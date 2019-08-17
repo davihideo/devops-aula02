@@ -1,7 +1,7 @@
 # devops-aula02
 
-Johnny Depp
-Tom Cruise
-Leonardo DiCaprio
-Jim Carrey
-Outro ator
+Johnny Depp  
+Tom Cruise  
+Leonardo DiCaprio  
+Jim Carrey  
+Outro ator  
